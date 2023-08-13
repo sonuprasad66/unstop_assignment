@@ -45,3 +45,18 @@ The application can be deployed to a mobile device using the following steps:
 1. Build the application for production: `npm run build`
 2. Provide instructions to users on how to access and install the app on their mobile devices.
 3. Deployed Link of the application:- https://unstop-coral.vercel.app/
+
+## Contact
+
+If you want to contact me, you can reach me through the below handles.
+
+ [![linkedin](https://img.shields.io/badge/sonuprasad66-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonuprasad66/)
+[![Github](https://img.shields.io/badge/sonuprasad66-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sonuprasad66/)
+
+
+© 2022 Sonu Prasad
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
