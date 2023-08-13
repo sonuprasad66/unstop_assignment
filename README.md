@@ -30,6 +30,13 @@
 
 ![image](https://github.com/sonuprasad66/unstop_assignment/assets/101389401/608de2b3-7b8c-4feb-9e51-aa848a38d0b4)
 
+<table>
+   <tr>
+    <td><img src="https://github.com/sonuprasad66/unstop_assignment/assets/101389401/1b3cbc61-fc0e-471f-8e3a-b011b9afaaaf" alt="homePage" /></td>
+    <td><img src="https://github.com/sonuprasad66/unstop_assignment/assets/101389401/4431c0c1-7ffe-4006-9a90-f4b6d55def05" alt="Mobile" /></td>
+    <td><img src="https://github.com/sonuprasad66/unstop_assignment/assets/101389401/3398e82e-dcb5-4a36-abbf-06413585c7df" alt="homePage" /></td>
+  </tr>
+</table>
 
 ## Deployment
 
