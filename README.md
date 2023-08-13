@@ -1,34 +1,24 @@
-# Assessment Management System
 
-Assessment Management System is a responsive web application built using React.js and Sass. It provides a platform for conducting assessments and managing a library of assessment resources. Users can create new assessments, view assessment overviews, and manage their library of assessments.
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Deployment](#deployment)
 
 ## Features
 
 - Dashboard: Provides an overview of assessments and candidates.
 - Assessment Overview: Displays statistics and sources of candidates for a specific assessment.
 - My Library: Manages the user's library of assessments.
-- Responsive Design: Ensures the application is usable across different devices.
+- Responsive design Ensures the application is usable across different devices.
 
 ## Technologies Used
 
 - React.js
 - Chakra UI
 - Material Icons
-- Figma
+- Figma Design
 
 ## Installation
 
-1. Clone the repository: `https://github.com/sonuprasad66/unstop_assignment`
-2. Install the dependencies: `npm install`
+1. Clone the repository: `git clone https://github.com/sonuprasad66/unstop_assignment`
+2. cd `unstop_assignment`
+3. Install the dependencies: `npm install`
 
 ## Usage
 
@@ -37,6 +27,9 @@ Assessment Management System is a responsive web application built using React.j
 3. Follow the on-screen instructions to navigate through the app and explore its features.
 
 ## Screenshots
+
+![image](https://github.com/sonuprasad66/unstop_assignment/assets/101389401/608de2b3-7b8c-4feb-9e51-aa848a38d0b4)
+
 
 ## Deployment
 
