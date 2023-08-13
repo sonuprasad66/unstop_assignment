@@ -1,8 +1,47 @@
-# React + Vite
+# Assessment Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Assessment Management System is a responsive web application built using React.js and Sass. It provides a platform for conducting assessments and managing a library of assessment resources. Users can create new assessments, view assessment overviews, and manage their library of assessments.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+
+## Features
+
+- Dashboard: Provides an overview of assessments and candidates.
+- Assessment Overview: Displays statistics and sources of candidates for a specific assessment.
+- My Library: Manages the user's library of assessments.
+- Responsive Design: Ensures the application is usable across different devices.
+
+## Technologies Used
+
+- React.js
+- Chakra UI
+- Material Icons
+- Figma
+
+## Installation
+
+1. Clone the repository: `https://github.com/sonuprasad66/unstop_assignment`
+2. Install the dependencies: `npm install`
+
+## Usage
+
+1. Start the application: `npm run dev`
+2. Connect your mobile device or use an emulator to run the application.
+3. Follow the on-screen instructions to navigate through the app and explore its features.
+
+## Screenshots
+
+## Deployment
+
+The application can be deployed to a mobile device using the following steps:
+
+1. Build the application for production: `npm run build`
+2. Provide instructions to users on how to access and install the app on their mobile devices.
+3. Deployed Link of the application:- https://unstop-coral.vercel.app/
